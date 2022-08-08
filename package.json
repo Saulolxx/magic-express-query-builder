@@ -1,0 +1,10 @@
+{
+  "name": "magic-express-query-builder",
+  "version": "1.0.0",
+  "description": "build orm queries through http server query objects like express.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Saulolxx/magic-express-query-builder.git",
+  "author": "Saulo Lins Dias",
+  "license": "MIT",
+  "private": false
+}
